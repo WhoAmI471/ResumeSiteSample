@@ -9,12 +9,38 @@
 
 .sidebar-title {
     margin-top: 50px;
+    margin-bottom: 16px;
 }
 
 .sidebar-list {
+    margin: 0;
+    padding: 0;
 
 }
 
+.sidebar-list li {
+    list-style-type: none;
+    margin-left: 0;
+    margin-bottom: 4px;
+    /* padding: 0; */
+}
+
+
+.sidebar-list li:hover  {
+    color: #472CFF;
+    cursor: pointer;
+}
+
+.sidebar-list li:active  {
+    color: #472CFF;
+}
+
+.sidebar-list li:focus  {
+    color: #472CFF;
+}
+
 .sidebar-list-item {
+    /* list-style-image: none; */
+    margin-left: 0;
 
 }
