@@ -1,0 +1,20 @@
+.sidebar-container {
+    height: max-content;
+    /* position: relative; */
+    /* overflow-y: auto; */
+    position: fixed;
+    top: 0;
+    margin-left: 50px;
+}
+
+.sidebar-title {
+    margin-top: 50px;
+}
+
+.sidebar-list {
+
+}
+
+.sidebar-list-item {
+
+}

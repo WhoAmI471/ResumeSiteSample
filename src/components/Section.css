@@ -1,0 +1,49 @@
+.section-container {
+    /* text-align: left; */
+}
+
+.section-title {
+    text-align: left;
+}
+
+.section-content {
+
+}
+
+.section-content-list {
+    padding-left: 15px;
+}
+
+.section-content-list li {
+    list-style-image: url(../images/marker.svg);
+    line-height: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.section-content-list li::marker {
+	font-size: 10px;
+    width: 4px;
+    height: 20px;
+	/* line-height: 1; */
+}
+
+.section-content-item {
+
+}
+
+.section-content-heading {
+    text-align: left;
+}
+
+.section-content-image {
+
+}
+
+.content-image {
+
+}
+
+.content-image-text {
+    text-align: right;
+}
